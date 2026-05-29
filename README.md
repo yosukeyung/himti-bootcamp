@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Type](https://img.shields.io/badge/Type-Group_Project-8A2BE2)
+![Type](https://img.shields.io/badge/Type-Individual-8A2BE2)
 
 > An interactive Machine Learning web application built with Streamlit to predict the likelihood of diabetes based on medical diagnostic measurements.
 
