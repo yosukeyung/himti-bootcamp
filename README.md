@@ -2,7 +2,7 @@
 
 > An interactive Machine Learning web application built with Streamlit to predict the likelihood of diabetes based on medical diagnostic measurements.
 >
-> > **Status:** 🏁 Completed
+> **Status:** 🏁 Completed
 > > 
 > **Project Type:** Individual Project
 
