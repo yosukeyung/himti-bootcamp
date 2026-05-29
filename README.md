@@ -1,14 +1,14 @@
 # 🩺 Diabetes Risk Predictor App
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E.svg)
+
 > An interactive Machine Learning web application built with Streamlit to predict the likelihood of diabetes based on medical diagnostic measurements.
 >
 > **Status:** 🏁 Completed
 > > 
 > **Project Type:** Individual Project
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E.svg)
 
 ## 💡 About The Project
 
