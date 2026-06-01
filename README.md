@@ -7,6 +7,8 @@
 ![Type](https://img.shields.io/badge/Type-Individual_Project-8A2BE2)
 
 > An interactive Machine Learning web application built with Streamlit to predict the likelihood of diabetes based on medical diagnostic measurements.
+>
+>  **🌟 Try it out live:** [**Diabetes Prediction App**](https://himti-bootcamp-gx3qtpv8jf5xp92hyrb6sw.streamlit.app/)
 
 
 ## 💡 About The Project
